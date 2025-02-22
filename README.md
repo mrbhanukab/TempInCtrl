@@ -12,9 +12,13 @@ TempInCtrl is a sleek and efficient temperature control system designed to monit
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+    - [Libraries](#libraries)
 - [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [Contribution Guidelines](#contribution-guidelines)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+        - [Wiring](#wiring)
+- [Code Explanation](#code-explanation)
+- [Contribution Guidelines + License](#contribution-guidelines-&-license)
 - [License](#license)
 - [Credits](#Credits)
 
@@ -84,7 +88,7 @@ Ensure proper wiring according to the included wiring schema.
      </tr>
 </table>
 
-## Usage
+## Code Explanation
 ### `src/main.cpp`
 This is the main file where the setup and loop functions are defined. It initializes the hardware and handles the main logic of the application.
 ```c++
@@ -171,7 +175,7 @@ void fan_control() {
 ```
 
 
-## Contribution Guidelines + License
+## Contribution Guidelines & License
 > **Contributions are welcome!**
 > This project (Only Codebase) is licensed under [Apache License Version 2](LICENSE). Please make sure to review it before submitting pull requests. We encourage you to add new and creative things! We encourage you to fork the repo, contribute, and build on our ideas. Together, we can make it even better.
 
