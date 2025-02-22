@@ -174,17 +174,11 @@ void fan_control() {
 
 
 ## Contribution Guidelines + License
-
-This project is licensed under the [Name of License](link-to-license). See the [LICENSE](link-to-license-file) file for details. If you're looking to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Make your changes in a new branch.
-3. Submit a pull request.
-
-Detailed contribution guidelines can be found in [CONTRIBUTING.md](link-to-contributing-md-if-you-have-one).
+> **Contributions are welcome!**
+> This project (Only Codebase) is licensed under [Apache License Version 2](LICENSE). Please make sure to review it before submitting pull requests. We encourage you to add new and creative things! We encourage you to fork the repo, contribute, and build on our ideas. Together, we can make it even better.
 
 ## Credits
-TempInCtrl is created by Mr. Bhanuka B. and Keshan Perera (who also contributed the idea). Feel free to contribute, report issues, or provide suggestions on the GitHub repository. You are free to use the code, but you must obtain permission from Keshan Perera before implementing the same idea, as it belongs to him.
+[TempInCtrl](https://github.com/mrbhanukab/TempInCtrl) is created by [Bhanuka Bandara](https://github.com/mrbhanukab) and Keshan Perera (who also contributed the idea). Feel free to contribute, report issues, or provide suggestions on the GitHub repository. You are free to use the code, but you must obtain permission from Keshan Perera before implementing the same idea, as it belongs to him.
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrbhanukab)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuka-bandara-8a209420a)
