@@ -2,7 +2,13 @@
 
 TempInCtrl is a sleek and efficient temperature control system designed to monitor and regulate temperature with precision. It features a user-friendly interface and real-time updates, making temperature management a breeze.
 
-![Project Image](link-to-image-if-you-have-one.png)
+
+
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/454f3f92-afbb-4e2e-a68d-5c3f5b85ef94" alt="Project Wiring" /></td>
+    </tr>
+</table>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -64,20 +70,21 @@ TempInCtrl utilizes PlatformIO with the Arduino framework for development and de
 
 Ensure proper wiring according to the included wiring schema.
 
-![Project Image](link-to-image-if-you-have-one.png)
-
-- **Rotary Encoder:**
-  - CLK: Pin 9
-  - DT: Pin 10
-
-- **Fan:**
-  - FAN: Pin 11
-
-- **Buzzer:**
-  - BUZZER: Pin 12
-
-- **OLED Display and Thermometer:**
-  - Connect both the OLED display and the MLX90614 thermometer to the SDA and SCL pins of the Arduino device. The specific pins for SDA and SCL vary depending on the Arduino model.
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/454f3f92-afbb-4e2e-a68d-5c3f5b85ef94" alt="Project Wiring" /></td>
+    </tr>
+     <tr>
+     <td>
+            <ol>
+                <li><strong>Rotary Encoder:</strong> CLK Pin 9, DT Pin 10</li>
+                <li><strong>Fan:</strong> Pin 11</li>
+                <li><strong>Buzzer:</strong> Pin 12</li>
+                <li><strong>OLED Display and Thermometer:*</strong> Connect both the OLED display and the MLX90614 thermometer to the SDA and SCL pins of the Arduino device. The specific pins for SDA and SCL vary depending on the Arduino model.</li>
+            </ol>
+     </td>
+     </tr>
+</table>
 
 ## Usage
 ### `src/main.cpp`
