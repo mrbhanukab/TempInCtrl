@@ -180,7 +180,7 @@ void fan_control() {
 > This project (Only Codebase) is licensed under [Apache License Version 2](LICENSE). Please make sure to review it before submitting pull requests. We encourage you to add new and creative things! We encourage you to fork the repo, contribute, and build on our ideas. Together, we can make it even better.
 
 ## Credits
-[TempInCtrl](https://github.com/mrbhanukab/TempInCtrl) is created by [Bhanuka Bandara](https://github.com/mrbhanukab) and Keshan Perera (who also contributed the idea). Feel free to contribute, report issues, or provide suggestions on the GitHub repository. You are free to use the code, but you must obtain permission from Keshan Perera before implementing the same idea, as it belongs to him.
+[TempInCtrl](https://github.com/mrbhanukab/TempInCtrl) is created by [Bhanuka Bandara](https://github.com/mrbhanukab), Keshan Perera and his team(who also contributed the idea). Feel free to contribute, report issues, or provide suggestions on the GitHub repository. You are free to use the code, but you must obtain permission from Keshan Perera and his team before implementing the same idea, as it belongs to them.
 
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrbhanukab)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuka-bandara-8a209420a)
