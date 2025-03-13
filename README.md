@@ -1,7 +1,6 @@
 # TempInCtrl
 
-TempInCtrl is a sleek and efficient temperature control system designed to monitor and regulate temperature with precision. It features a user-friendly interface and real-time updates, making temperature management a breeze.
-
+TempInCtrl is a sleek and efficient temperature control system designed to monitor and regulate temperature with precision. It features a user-friendly interface and real-time updates, making temperature management a breeze. **The real-world use case was to cool the brake pads, which was an idea by Keshan Perera and his team.**
 <table>
     <tr>
         <td colspan="2"><img src="/README.Files/Team.jpg" alt="Keshan Perera and his Team" /></td>
@@ -22,9 +21,8 @@ TempInCtrl is a sleek and efficient temperature control system designed to monit
     - [Steps](#steps)
         - [Wiring](#wiring)
 - [Code Explanation](#code-explanation)
-- [Contribution Guidelines + License](#contribution-guidelines-&-license)
-- [License](#license)
-- [Credits](#Credits)
+- [Contribution Guidelines & License](#contribution-guidelines-&-license)
+- [Credits](#credits)
 
 ## Introduction
 
