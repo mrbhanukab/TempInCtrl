@@ -3,8 +3,8 @@
 TempInCtrl is a sleek and efficient temperature control system designed to monitor and regulate temperature with precision. It features a user-friendly interface and real-time updates, making temperature management a breeze.
 
 <table>
-    <tr colspan="2">
-        <td><img src="/README.Files/Team.jpg" alt="Keshan Perera and his Team" /></td>
+    <tr>
+        <td colspan="2"><img src="/README.Files/Team.jpg" alt="Keshan Perera and his Team" /></td>
     </tr>
     <tr>
         <td><img src="/README.Files/main.gif" alt="Project" /></td>
