@@ -4,7 +4,11 @@ TempInCtrl is a sleek and efficient temperature control system designed to monit
 
 <table>
     <tr>
+        <td><img src="/README.Files/Team.jpg" alt="Keshan Perera and his Team" /></td>
+    </tr>
+    <tr>
         <td><img src="/README.Files/main.gif" alt="Project" /></td>
+         <td><img src="/README.Files/Preview.jpg" alt="Project" /></td>
     </tr>
 </table>
 
